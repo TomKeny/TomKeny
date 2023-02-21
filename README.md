@@ -1,10 +1,8 @@
 ### Hi, I'm Tom 👋
-###🔭 I’m currently working on Developing my art and programming skills
-###
-###🌱 I’m currently learning unity games development
-###
-###
-###📫 How to reach me: tomkenyon2003@gmail.com
+🔭 I’m currently working on Developing my art and programming skills
+🌱 I’m currently learning unity games development
+
+📫 How to reach me: tomkenyon2003@gmail.com
 
 
 <!--
