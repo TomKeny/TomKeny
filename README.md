@@ -1,7 +1,7 @@
 ### Hi, I'm Tom 👋
 🔭 I’m currently working on Developing my art and programming skills
 
-🌱 I’m currently learning unity games development
+🌱 I’m currently learning software development
 
 
 📫 How to reach me: tomkenyon2003@gmail.com
